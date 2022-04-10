@@ -27,10 +27,13 @@ Cause they look like this:
 
 HOW TO USE:
 1) Open the NormalFixer Tool (Tools/NormalMapCorrecter)
+
 ![Screenshot_1](https://user-images.githubusercontent.com/59656122/162627605-31853625-b927-40e6-8de8-0a49481c41dd.png)
 
 2) Drag the normal map into the only slot on the tool. Then press Invert Normal Map. (it might take a while to convert the map, depending on the size)
+
 ![Screenshot_2](https://user-images.githubusercontent.com/59656122/162627615-c6bf833f-543f-44cb-b52a-ffe1c36e546b.png)
 
-3) Set the desired file destination + name. Click “save”\
+3) Set the desired file destination + name. Click “save”
+
 ![Screenshot_10](https://user-images.githubusercontent.com/59656122/162627620-d5ee8fa5-20a9-4df7-8a99-3a132cc5fab7.png)
